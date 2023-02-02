@@ -1,1 +1,1 @@
-send direct mail
+send direct mail to client
